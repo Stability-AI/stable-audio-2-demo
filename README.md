@@ -2,7 +2,7 @@
 
 Audio-based generative models for music have seen great strides recently, but so far have not managed to produce full-length music tracks with coherent musical structure. We show that by training a generative model on long temporal contexts it is possible to produce long-form music of up to 4m\,45s. Our model consists of a diffusion-transformer operating on a highly downsampled continuous latent representation {(latent rate of 21.5\,Hz)}. It obtains state-of-the-art generations according to metrics on audio quality and prompt alignment, and subjective tests reveal that it produces full-length music with coherent structure.
 
-## Comparison with state-of-the-art (w/ song describer dataset prompts)
+## Comparison with state-of-the-art (song describer dataset prompts)
 
 **Prompt**: An uplifting jazz song that makes your head shake. 
 
