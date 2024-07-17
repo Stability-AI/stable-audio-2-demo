@@ -1,5 +1,11 @@
 ⚠️ *Warning: This website may not function properly on Safari. For the best experience, please use Google Chrome.*
 
+[`arXiv`](https://arxiv.org/pdf/2404.10301): Stable Audio 2 paper
+
+[`stable-audio-tools`](https://github.com/Stability-AI/stable-audio-tools): code to reproduce Stable Audio
+
+[`stable-audio-metrics`](https://github.com/Stability-AI/stable-audio-metrics): code to evaluate Stable Audio
+
 Audio-based generative models for music have seen great strides recently, but so far have not managed to produce full-length music tracks with coherent musical structure. We show that by training a generative model on long temporal contexts it is possible to produce long-form music of up to 4m 45s. Our model consists of a diffusion-transformer operating on a highly downsampled continuous latent representation (latent rate of 21.5 Hz). It obtains state-of-the-art generations according to metrics on audio quality and prompt alignment, and subjective tests reveal that it produces full-length music with coherent structure.
 
 ## Comparison with state-of-the-art (song describer dataset prompts)
